@@ -1,6 +1,7 @@
 # đ-o onl nhiều trên github
 name: lê ngọc cương
 sinh năm: 2k9 xq
+![Discord Banner 1](https://discordapp.com/api/guilds/984394031687696384/widget.png?style=banner1)
 
 [server discord](https://discord.gg/WGckkSyupg)
 <br />
