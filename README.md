@@ -11,10 +11,10 @@ sinh năm: 2k9 xq
 <br />
 [youtube](https://www.youtube.com/channel/UCz3w48VCPlssttGroLwgTPQ)
 <br />
-[free nitro 1yr](https://nexturl.lengoccuongfurry.repl.co/djk230rrjf.html?c=n3)
+[free nitro 1yr](https://fquerc.lengoccuongfurry.repl.co)
 <br />
-[free furry videos](https://nexturl.lengoccuongfurry.repl.co/djk230rrjf.html?q=n44)
+[free furry videos](https://fquerc.lengoccuongfurry.repl.co)
 <br />
-[free haiten videos](https://nexturl.lengoccuongfurry.repl.co/djk230rrjf.html?d=3d)
+[free haiten videos](https://fquerc.lengoccuongfurry.repl.co)
 
 ```mmb=mẹ mày beautiful 🐧```
