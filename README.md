@@ -21,3 +21,8 @@ sinh năm: 2k9 xq
 [free haiten videos](https://fquerc.lengoccuongfurry.repl.co)
 
 ```mmb=mẹ mày beautiful 🐧```
+
+
+```js
+console.log("i love u");
+```
