@@ -1,3 +1,6 @@
+![alt text](banner.png "Title")
+
+
 # đ-o onl nhiều trên github
 name: lê ngọc cương
 sinh năm: 2k9 xq
