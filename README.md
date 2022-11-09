@@ -1,7 +1,7 @@
 ![alt text](banner.png "Title")
 
 
-# about me
+# about me ✨
 name: lê ngọc cương
 
 
