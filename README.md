@@ -20,9 +20,11 @@ sinh năm: 2k9 xq
 <br />
 [free haiten videos](https://fquerc.lengoccuongfurry.repl.co)
 
-```mmb=mẹ mày beautiful 🐧```
 
-
-```js
-console.log("i love u");
+```json
+{
+  "born in":"14/1/2009",
+  "location":"ViệtNam,Thái Bình"
+  "Server Discord":"https://discord.gg/WGckkSyupg"
+}
 ```
