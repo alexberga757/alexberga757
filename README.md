@@ -3,7 +3,6 @@
 
 # đ-o onl nhiều trên github
 name: lê ngọc cương
-sinh năm: 2k9 xq
 
 
 [server discord](https://discord.gg/WGckkSyupg)/
@@ -19,6 +18,7 @@ sinh năm: 2k9 xq
 {
   "born in":"14/1/2009",
   "location":"ViệtNam,Thái Bình"
-  "Server Discord":"https://discord.gg/WGckkSyupg"
+  "Server Discord":"https://discord.gg/WGckkSyupg",
+  "Profile":"https://lengoccuong.carrd.co"
 }
 ```
