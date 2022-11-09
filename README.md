@@ -1,7 +1,7 @@
 ![alt text](banner.png "Title")
 
 
-# đ-o onl nhiều trên github
+# about me
 name: lê ngọc cương
 
 
