@@ -4,7 +4,7 @@
 # about me ✨
 name: lê ngọc cương
 
-![alt text](https://segggggg4.lengoccuongfurry.repl.co/)
+![alt text](https://segggggg4.lengoccuongfurry.repl.co/svmem.svg)
 
 
 
