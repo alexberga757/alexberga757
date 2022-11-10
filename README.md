@@ -27,7 +27,8 @@ name: lê ngọc cương
 }
 ```
 
-🌟what i need from you🌟
+🌟what i need from you🌟 ![Yuqikun_0](https://user-images.githubusercontent.com/75619426/201027105-a23e92e9-6b6b-4166-b35f-d49705939765.png)
+
 
 ```yml
 # 1. join my server discord
