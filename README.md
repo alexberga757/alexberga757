@@ -1,8 +1,9 @@
-![alt text](banner.png "Title")
+
 
 
 # about me ✨
-name: lê ngọc cương
+name: lê ngọc cương![seto2_abam_bubbline_kss](https://user-images.githubusercontent.com/75619426/201027529-ef99b574-a271-48c0-800e-2f60364cdca2.png)
+
 
 
 
@@ -27,7 +28,7 @@ name: lê ngọc cương
 }
 ```
 
-🌟what i need from you🌟 ![Yuqikun_0](https://user-images.githubusercontent.com/75619426/201027105-a23e92e9-6b6b-4166-b35f-d49705939765.png)
+🌟what i need from you🌟 
 
 
 ```yml
