@@ -6,7 +6,7 @@
 
 
 
-
+[![](https://dcbadge.vercel.app/api/server/WGckkSyupg)](https://discord.gg/WGckkSyupg)
 
 
 [server discord](https://discord.gg/WGckkSyupg)/
