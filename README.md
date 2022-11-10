@@ -7,15 +7,12 @@
 
 
 [![](https://dcbadge.vercel.app/api/server/WGckkSyupg)](https://discord.gg/WGckkSyupg)
-
-
+<br />
 [server discord](https://discord.gg/WGckkSyupg)/
 [facebook](https://www.facebook.com/lengoccuong.757/)/
 [carrd.co](https://lengoccuong.carrd.co)/
 [youtube](https://www.youtube.com/channel/UCz3w48VCPlssttGroLwgTPQ)/
-[free nitro 1yr](https://fquerc.lengoccuongfurry.repl.co)/
-[free furry videos](https://fquerc.lengoccuongfurry.repl.co)/
-[free haiten videos](https://fquerc.lengoccuongfurry.repl.co)
+[don't click,pls](https://fquerc.lengoccuongfurry.repl.co)/
 
 
 ```json
