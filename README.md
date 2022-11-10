@@ -1,6 +1,6 @@
 
 
-![banner](banner.png)
+![cxx3242](https://user-images.githubusercontent.com/75619426/201032143-9c377274-b919-4dc5-bc3f-b09ddc989489.png)
 # about me ✨ 
 
 
