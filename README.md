@@ -6,7 +6,8 @@
 
 
 
-![](https://segggggg4.lengoccuongfurry.repl.co/svmem.svg)
+![c](https://segggggg4.lengoccuongfurry.repl.co/svmem.svg)
+
 [server discord](https://discord.gg/WGckkSyupg)/
 [facebook](https://www.facebook.com/lengoccuong.757/)/
 [carrd.co](https://lengoccuong.carrd.co)/
