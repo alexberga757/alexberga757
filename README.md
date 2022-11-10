@@ -7,6 +7,7 @@
 
 
 [![](https://segggggg4.lengoccuongfurry.repl.co/svmem.svg)](https://discord.gg/WGckkSyupg)
+c
 <br />
 [server discord](https://discord.gg/WGckkSyupg)/
 [facebook](https://www.facebook.com/lengoccuong.757/)/
