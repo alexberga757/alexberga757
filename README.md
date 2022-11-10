@@ -4,7 +4,7 @@
 # about me ✨
 name: lê ngọc cương
 
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=main)
+![example branch parameter](https://segggggg4.lengoccuongfurry.repl.co)
 
 
 [server discord](https://discord.gg/WGckkSyupg)/
