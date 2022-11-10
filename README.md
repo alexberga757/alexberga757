@@ -1,7 +1,9 @@
 
 
 
-# about me ✨ ![seto2_abam_bubbline_kss](https://user-images.githubusercontent.com/75619426/201027639-b3670009-af99-4407-8cfa-4c87ae4a3f2f.png)
+# about me ✨ 
+:>
+![seto2_abam_bubbline_kss](https://user-images.githubusercontent.com/75619426/201027639-b3670009-af99-4407-8cfa-4c87ae4a3f2f.png)
 name: lê ngọc cương  
 
 
