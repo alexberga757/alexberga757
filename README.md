@@ -6,7 +6,7 @@
 
 
 
-[![](https://segggggg4.lengoccuongfurry.repl.co/svmem.svg)](https://discord.gg/zkspfFwqDg)
+[![](https://dcbadge.vercel.app/api/server/WGckkSyupg)](https://discord.gg/WGckkSyupg)
 
 [server discord](https://discord.gg/WGckkSyupg)/
 [facebook](https://www.facebook.com/lengoccuong.757/)/
