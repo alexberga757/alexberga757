@@ -1,6 +1,6 @@
 
 
-![cxx3242](banner.png)
+![cxx3242](bannerX.png)
 # about me ✨ 
 
 
