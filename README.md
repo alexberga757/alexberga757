@@ -1,7 +1,8 @@
 
-(đm thằng tuấn bệu lấy link của t)
-link chính gốc: [lê ngọc cương](https://www.facebook.com/profile.php?id=100090301057958) / 
-[lê ngọc cương cringe](https://www.facebook.com/lengoccuong.757)
+**(đm thằng tuấn bệu lấy link của t)**
+
+**link chính gốc: [lê ngọc cương](https://www.facebook.com/profile.php?id=100090301057958) / 
+[lê ngọc cương cringe](https://www.facebook.com/lengoccuong.757)**
 
 ![cxx3242](bannerX.png)
 # about me ✨ 
