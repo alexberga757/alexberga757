@@ -10,9 +10,9 @@
 
 
 
-[![](https://dcbadge.vercel.app/api/server/WGckkSyupg)](https://discord.gg/WGckkSyupg)
+[![](https://dcbadge.vercel.app/api/server/ZUN7CGsSST /))]( https://discord.com/invite/ZUN7CGsSST )
 
-[server discord](https://discord.gg/WGckkSyupg)/
+[server discord]( https://discord.com/invite/ZUN7CGsSST )/
 [facebook](https://www.facebook.com/lengoccuong.757/)/
 [carrd.co](https://lengoccuong.carrd.co)/
 [youtube](https://www.youtube.com/channel/UCz3w48VCPlssttGroLwgTPQ)/
