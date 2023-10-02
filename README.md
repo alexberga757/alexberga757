@@ -1,8 +1,8 @@
 # Belling Bubbline / AB. Holmo
 
 **Basic Information on [carrd](https://lengoccuong.carrd.co)** <br>
-Gender: Bisexual (I guess) <br>
-User: Linux (Manjaro/Arch Linux) , Pro-Lesbian , Bubbline <br> 
+Gender: `Bisexual (I guess)` <br>
+User: `Linux (Manjaro/Arch Linux) , Pro-Lesbian , Bubbline` <br> 
 
 **WM/DE info** <br>
 WM: BSPWM - [https://aur.archlinux.org/packages/bspwm-git](https://aur.archlinux.org/packages/bspwm-git) <br>
