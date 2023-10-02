@@ -1,7 +1,7 @@
 # Belling Bubbline / AB. Holmo
 
 **Basic Information on [carrd](https://lengoccuong.carrd.co)** <br>
-Gender: Bi? <br>
+Gender: Bisexual (I guess) <br>
 User: Linux (Manjaro/Arch Linux) , Pro-Lesbian , Bubbline <br> 
 
 **WM/DE info** <br>
